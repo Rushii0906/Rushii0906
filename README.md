@@ -3,6 +3,73 @@
 # 💫 About Me:
 👋 Hi, I’m Rushi Pawar!<br>I’m currently pursuing Computer Science & Engineering and I’m an aspiring developer with a passion for coding 💻.<br>I love building creative and practical solutions using Python 🐍, Flask 🌐, and exploring AI & automation 🤖.<br>Constantly learning, experimenting, and turning ideas into projects 🚀.<br>Let’s code, create, and innovate together! ✨<br>
 
+# 🚀 My Projects
+
+## 🛒 E-Commerce Hub  
+**Tech Stack:** Flask, HTML, CSS, JavaScript, SQLite  
+
+A multi-vendor e-commerce platform featuring **customer, seller, and admin modules** with secure authentication and complete product management functionality. The platform supports seamless product listings, order handling, and role-based dashboards.  
+
+### ✨ Features
+- User Authentication & Authorization  
+- Seller Dashboard & Product Management  
+- Admin Panel for Platform Control  
+- Responsive UI Design  
+- SQLite Database Integration  
+
+🔗 **Live Demo:** https://ecommerce-fl48.onrender.com/
+
+---
+
+## 💍 Kumbhar Mangalam  
+**Tech Stack:** HTML, CSS, JavaScript, React.js, AWS Lambda  
+
+A matrimony platform built for the **Kumbhar community**. Contributed to frontend development, implemented AWS Lambda functions, and assisted in deployment and integration processes.  
+
+### ✨ Contributions
+- Frontend Development using React.js  
+- AWS Lambda Function Integration  
+- Deployment & Support Assistance  
+- Responsive and User-Friendly Interface  
+
+🔗 **Website:** https://www.kumbharmangalam.com/
+
+---
+
+## ✅ Listify  
+**Tech Stack:** Flask, SQLite, Chart.js, HTML, CSS, JavaScript  
+
+A responsive Todo List web application designed for efficient task management and productivity tracking. Includes progress visualization and clean UI components.  
+
+### ✨ Features
+- Add, Update & Delete Tasks  
+- Progress Tracking Dashboard  
+- Interactive Charts using Chart.js  
+- Responsive Modern UI  
+- SQLite Database Support  
+
+🔗 **Live Demo:** https://listify-6zt9.onrender.com/
+
+---
+
+## 🎮 S-400 Missile Catcher  
+**Tech Stack:** Python, OpenCV, MediaPipe, Pygame  
+
+A real-time hand-tracking game where players catch missiles using gesture-controlled launchers. Built using computer vision and live camera feed integration.  
+
+### ✨ Features
+- Real-Time Hand Tracking  
+- Gesture-Based Controls  
+- Live Camera Feed Integration  
+- Missile Tracking & Collision Detection  
+- Interactive Gameplay Experience  
+
+🔗 **Game Link:** https://rushi0906.itch.io/s-400-missile-catcher
+
+---
+
+# 📌 About Me
+Passionate developer focused on building **interactive web applications, computer vision projects, and user-friendly digital experiences**. Skilled in frontend development, backend integration, and deploying scalable applications.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rushipawar.in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rushipawar0906) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rushipawarwork09@gmail.com) 
