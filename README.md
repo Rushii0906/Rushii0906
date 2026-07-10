@@ -5,66 +5,112 @@
 
 # 🚀 My Projects
 
-## 🛒 E-Commerce Hub  
-**Tech Stack:** Flask, HTML, CSS, JavaScript, SQLite  
+# 🧠 NeuraFlow AI
+**Tech Stack:** React.js, TypeScript, Flask, LangChain, LangGraph, Google Gemini API, Supabase PostgreSQL, Tailwind CSS
 
-A multi-vendor e-commerce platform featuring **customer, seller, and admin modules** with secure authentication and complete product management functionality. The platform supports seamless product listings, order handling, and role-based dashboards.  
+An **AI-powered personalized learning platform** that transforms any topic into structured learning roadmaps using Agentic AI and Google Gemini. The platform generates beginner notes, detailed explanations, revision summaries, quizzes, and interview preparation while tracking user progress in real time.
 
 ### ✨ Features
-- User Authentication & Authorization  
-- Seller Dashboard & Product Management  
-- Admin Panel for Platform Control  
-- Responsive UI Design  
-- SQLite Database Integration  
+- AI-Generated Learning Roadmaps
+- Personalized Notes & Revision Guides
+- Dynamic Quiz Generation
+- Interview Preparation Module
+- Progress Tracking & Analytics
+- JWT Authentication
+- PDF Export
+- Responsive Glassmorphism UI
 
-🔗 **Live Demo:** https://ecommerce-fl48.onrender.com/
+🔗 **Live Demo:** https://neuraflowai-three.vercel.app/  
+💻 **GitHub:** https://github.com/Rushii0906/NeuraFlow-AI
 
 ---
 
-## 💍 Kumbhar Mangalam  
-**Tech Stack:** HTML, CSS, JavaScript, React.js, AWS Lambda  
+# 🏛️ Kumbhar Samaj Community Management System
+**Tech Stack:** React.js, Flask, Python, SQLAlchemy, SQLite, JWT Authentication
 
-A matrimony platform built for the **Kumbhar community**. Contributed to frontend development, implemented AWS Lambda functions, and assisted in deployment and integration processes.  
+Developed a **full-stack community management platform** to digitize member registration, event management, payment tracking, and community administration with secure role-based access and modern web technologies.
+
+### ✨ Features
+- JWT Authentication & RBAC
+- Member Registration & Profile Management
+- Advanced Member Search
+- Membership Fee Tracking
+- Event Management (CRUD)
+- Admin Dashboard
+- REST API Integration
+
+🔗 **Live Demo:** https://kumbhar-samaj-community-app-copy.vercel.app/  
+💻 **GitHub:** https://github.com/Rushii0906/Kumbhar-Samaj-Community-App
+
+---
+
+# 💍 Kumbhar Mangalam
+**Tech Stack:** React.js, AWS Lambda, HTML, CSS, JavaScript
+
+A **production-ready matrimony platform** developed for the Kumbhar community. Contributed to frontend development, AWS Lambda integration, deployment, and application optimization to deliver a responsive and scalable user experience.
 
 ### ✨ Contributions
-- Frontend Development using React.js  
-- AWS Lambda Function Integration  
-- Deployment & Support Assistance  
-- Responsive and User-Friendly Interface  
+- React.js Frontend Development
+- AWS Lambda Integration
+- Responsive UI Development
+- Deployment & Production Support
+- Cross-Team Collaboration
 
-🔗 **Website:** https://www.kumbharmangalam.com/
-
----
-
-## ✅ Listify  
-**Tech Stack:** Flask, SQLite, Chart.js, HTML, CSS, JavaScript  
-
-A responsive Todo List web application designed for efficient task management and productivity tracking. Includes progress visualization and clean UI components.  
-
-### ✨ Features
-- Add, Update & Delete Tasks  
-- Progress Tracking Dashboard  
-- Interactive Charts using Chart.js  
-- Responsive Modern UI  
-- SQLite Database Support  
-
-🔗 **Live Demo:** https://listify-6zt9.onrender.com/
+🌐 **Website:** https://www.kumbharmangalam.com/
 
 ---
 
-## 🎮 S-400 Missile Catcher  
-**Tech Stack:** Python, OpenCV, MediaPipe, Pygame  
+# 📚 Next-Gen Learning Dashboard
+**Tech Stack:** Next.js 15, React, TypeScript, Tailwind CSS, Framer Motion, Supabase
 
-A real-time hand-tracking game where players catch missiles using gesture-controlled launchers. Built using computer vision and live camera feed integration.  
+A **modern frontend learning dashboard** designed to help learners monitor course progress, learning activity, and study performance through a responsive and interactive interface.
 
 ### ✨ Features
-- Real-Time Hand Tracking  
-- Gesture-Based Controls  
-- Live Camera Feed Integration  
-- Missile Tracking & Collision Detection  
-- Interactive Gameplay Experience  
+- Dynamic Course Dashboard
+- GitHub-Style Activity Heatmap
+- Animated Progress Tracking
+- Responsive Design
+- Accessible UI
+- Modern Component Architecture
 
-🔗 **Game Link:** https://rushi0906.itch.io/s-400-missile-catcher
+🔗 **Live Demo:** https://learning-dashboard-indol.vercel.app/  
+💻 **GitHub:** https://github.com/Rushii0906/Learning-Dashboard-
+
+---
+
+# 🛒 E-Commerce Hub
+**Tech Stack:** Flask, Python, SQLite, HTML, CSS, JavaScript
+
+Developed a **multi-vendor e-commerce platform** supporting customer, seller, and admin modules with secure authentication, product management, and role-based dashboards.
+
+### ✨ Features
+- User Authentication & Authorization
+- Seller Dashboard
+- Admin Panel
+- Product Management
+- CRUD Operations
+- Responsive UI
+
+🔗 **Live Demo:** https://ecommerce-fl48.onrender.com/  
+💻 **GitHub:** https://github.com/Rushii0906/E-commerce-Website
+
+---
+
+# ✅ Listify
+**Tech Stack:** Flask, SQLite, SQLAlchemy, Chart.js, HTML, CSS, JavaScript
+
+A **full-stack task management and productivity application** that enables users to organize tasks, monitor progress, and visualize productivity through an interactive analytics dashboard.
+
+### ✨ Features
+- Task Management (CRUD)
+- Progress Tracking Dashboard
+- Productivity Analytics
+- Interactive Charts with Chart.js
+- Modern Responsive UI
+- SQLite Database Integration
+
+🔗 **Live Demo:** https://listify-6zt9.onrender.com/  
+💻 **GitHub:** https://github.com/Rushii0906/Todo-Progress-Tracker
 
 ---
 
